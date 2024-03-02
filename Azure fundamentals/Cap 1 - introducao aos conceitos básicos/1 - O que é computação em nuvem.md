@@ -1,5 +1,4 @@
 
-
 A computaçao em nuvem é a entrega de serviços pela internet. Infra em T.I., maquinas virtuais,  armazenamento, DB, network. Também pode incluir IoT e I.A.
 
 # Descrever o modelo de responsabilidade compartilhada
@@ -12,7 +11,7 @@ IaaS (infraestrutura como serviço) - maior responsabilidade no consumidor
 PaaS (plataforma como serviço) - maior parte da responsabilidade no cloudprovider
 SaaS (software como serviço) - fica no meio entre os dois
 
-![[Pasted image 20240301200514.png]]
+![[shared-responsibility-b3829bfe.svg]]
 
 Você sempre será responsável por:
 
