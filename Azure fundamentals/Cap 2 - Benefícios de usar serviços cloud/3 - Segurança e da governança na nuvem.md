@@ -1,0 +1,7 @@
+Itens como **modelos de conjunto** ajudam a garantir que todos os seus recursos implantados atendam aos padrões corporativos e aos requisitos regulatórios governamentais. Além disso, você pode atualizar todos os seus recursos implantados com novos padrões à medida que os padrões são alterados. A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação. Dependendo do seu modelo operacional, **patches de software e atualizações também podem ser aplicados automaticamente**, o que ajuda na governança e na segurança.
+
+IaaS também permite que você gerencie os sistemas operacionais e o software instalado, incluindo aplicação de patches e manutenção. Se você quiser que a aplicação de patches e a manutenção sejam tratadas automaticamente, as implantações de plataforma como serviço ou software como serviço podem ser as melhores estratégias de nuvem para você.
+
+ Os provedores de nuvem normalmente são adequados para lidar com situações como ataques de DDoS (negação de serviço distribuído)
+
+Ao estabelecer uma **presença de governança** o mais cedo possível, você poderá manter sua presença de nuvem atualizada, protegida e bem gerenciada.
